@@ -15,7 +15,7 @@ The command installs a bunch of new packages including gcc, g++ and make.
 
 Compiling a basic C or C++ program using GCC is pretty easy. Open your text editor and create the following file:
 
-### nano hello.c
+    nano hello.c
 
     #include <stdio.h>
     int main()
