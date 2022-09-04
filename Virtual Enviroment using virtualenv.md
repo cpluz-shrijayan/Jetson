@@ -32,6 +32,3 @@
 
 ### Create virtualenv using Python3
     virtualenv -p python3 myenv
-
-### Instead of using virtualenv you can use this command in Python3
-    python3 -m venv myenv
