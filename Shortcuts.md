@@ -10,3 +10,6 @@
 
 ### Exit from Python Terminal
     Crtl + D
+
+### Copy One folder to another
+    cp -R <source_folder> <destination_folder>
