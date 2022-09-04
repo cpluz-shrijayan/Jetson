@@ -18,6 +18,7 @@ Compiling a basic C or C++ program using GCC is pretty easy. Open your text edit
     nano hello.c
     
 Type the below code in opened screen
+
     #include <stdio.h>
     int main()
     {
