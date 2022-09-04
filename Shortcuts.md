@@ -6,3 +6,7 @@
 
 ### Paste in terminal
     Crtl + Shift + V
+
+
+### Exit from Python Terminal
+    Crtl + D
