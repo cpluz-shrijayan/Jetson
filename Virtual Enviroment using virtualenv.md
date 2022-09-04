@@ -16,7 +16,7 @@
 
 ### You can also use a Python interpreter of your choice
 
-    virtualenv -p /usr/bin/python2.7 venv
+    virtualenv -p /usr/bin/python3.8 venv
   
 ### Active your virtual environment:    
     
