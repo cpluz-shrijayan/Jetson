@@ -1,7 +1,27 @@
+# Basic Install
 sudo apt-get install python3-pip
+sudo apt install software-properties-common
+
+## Creating venv and acti
 sudo pip3 install virtualenv
 virtualenv venv
+source venv/bin/activate
+
+## Editor
 sudo apt-get install nano
+
+### Python
+nano pyhtonhello.py
+python3 pythonhello.py
+
+### C
+nano chello.c
+gcc chello.c -o hello
+./hello
+
+###
+nano javahello.java
+
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt-get update
 apt-get update
@@ -10,3 +30,7 @@ sudo apt-get install python3.8
 
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
+
+# Object Detection
+git clone 
+pip install psutil pyproject-toml torch opencv-python pandas requests Pillow torchvision pyyaml tqdm matplotlib seaborn
