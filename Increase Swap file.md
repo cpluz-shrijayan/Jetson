@@ -15,9 +15,11 @@
     exit
 
 OR
+
     sudo vi /etc/fstab
     
 Press insert key on keybord
+
     /mnt/4g.swap swap swap defaults 0 0
     
 Press ESC and press Shift + : and press wq
