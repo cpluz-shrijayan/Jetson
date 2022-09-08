@@ -9,6 +9,10 @@ pip install psutil pyproject-toml torch opencv-python pandas requests Pillow tor
 
 To Check the Temperature of Jetson use Psensor Application which is in Store of Ubuntu
 
+### To access the Rasberry c
+nvgstcapture-1.0
+
+
 
 Prerequisites
 In order to be successful in this course, you will need the following:
