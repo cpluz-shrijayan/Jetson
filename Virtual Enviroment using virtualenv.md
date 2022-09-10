@@ -1,5 +1,9 @@
 # How to install virtualenv:
 
+### Install Python 3.8
+
+    sudo apt install python3.8
+
 ### Install **pip** first
 
     sudo apt-get install python3-pip
