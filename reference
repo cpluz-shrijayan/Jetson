@@ -33,4 +33,4 @@ sudo add-apt-repository ppa:deadsnakes/ppa
 
 # Object Detection
 git clone 
-pip install psutil pyproject-toml torch opencv-python pandas requests Pillow torchvision pyyaml tqdm matplotlib seaborn
+pip install psutil pyproject-toml pandas requests Pillow torchvision pyyaml tqdm matplotlib seaborn torch opencv-python
