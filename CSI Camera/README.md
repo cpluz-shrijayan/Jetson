@@ -1,3 +1,5 @@
+sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
+
 # CSI-Camera
 Simple example of using a MIPI-CSI(2) Camera (like the Raspberry Pi Version 2 camera) with the NVIDIA Jetson Developer Kits with CSI camera ports. This includes the recent Jetson Nano and Jetson Xavier NX.
 
